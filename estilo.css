@@ -1,0 +1,123 @@
+
+body{
+	background-color: #e5e5e5;
+	word-wrap: break-word;
+	margin: 0px;
+}
+
+header{
+	text-align: center;
+	background-color: orange;
+	padding: 5px;
+	padding-bottom: 3px;
+	margin: 0px;
+}
+
+section{
+	height: 800px;
+	width: 800px;
+	background-color: #e5e5e5;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+footer{
+	width: 800px;
+	background-color: gray;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+#menu{
+	margin: 20px auto;
+	margin-bottom: 0px;
+	border: 1px solid white;
+}		
+
+a{
+	padding: 0px 15px;
+	line-height: 30px;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	padding: 5px 15px;
+	text-decoration: none;
+	background-color: white;
+	color: orange;
+}
+
+#logo{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin: 20px auto;
+}
+
+#ConteudoPrincipal{
+	width: 450px;
+	height: 650px;
+	padding: 10px;
+	margin: 0px 10px;
+	background-color: white;
+}
+
+.ConteudoSecundario{
+	width: 250px;
+	height: auto;
+	padding: 10px;
+	margin: 10px;
+	background-color: white;
+}
+
+.tituloprincipal{
+	color: orange;
+	margin: 0px;
+
+}
+
+.titulosecundario{
+	background-color: #e5e5e5;
+	color: gray;
+	margin: 0px;
+}
+
+.linklermais{
+	color: navy;
+	padding: 0px;
+	margin: 0px;
+}
+
+.linklermais:hover{
+	color: navy;
+	padding: 0px;
+	margin: 0px;
+}
+
+.linkcategorias{
+	margin: 15px;
+	margin-left: 0px;
+	display: block;
+	color: orange;
+	padding: 0px;
+}
+
+.linkcategorias:hover{
+	margin: 15px;
+	margin-left: 0px;
+	display: block;
+	color: gray;
+	padding: 0px;
+}
+
+p{
+	margin: 0px;
+}
+
+.pconteudoprincipal{
+	margin-top: 8px;
+}
+
+.branco{
+	color: white;
+}
+
